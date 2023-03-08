@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 430a0307821ae6b4a9f0ec4f0fc0a39d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _pfItemWorld: {instanceID: 0}
+  - s_Wood: {fileID: 21300000, guid: c9b53904a7cab3b4296f8c46f4bf14bf, type: 3}
+  - s_Stick: {fileID: 21300000, guid: f795b43d302a0f544aff769bf539a167, type: 3}
+  - s_Stone: {fileID: 21300000, guid: 19fb9d1210957a34286b9672f00e3075, type: 3}
+  - s_Sword_Stone: {fileID: 21300000, guid: 490107e22d10c2a4098e44a17244a47c, type: 3}
+  - s_Axe_Stone: {fileID: 21300000, guid: d9f674fae90340549bc32e0c1c7fb937, type: 3}
+  - s_Pickaxe_Stone: {fileID: 21300000, guid: ded1c0db7594144478e5b8ef1115f1df, type: 3}
+  - s_Boat: {fileID: 21300000, guid: aec0ac1719ab2c748b7448246dfc0770, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
